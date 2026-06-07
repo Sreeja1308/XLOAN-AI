@@ -1,0 +1,1 @@
+{"XGBoost (tuned)": {"accuracy": 0.8685, "auc": 0.9276436107297747}, "Random Forest": {"accuracy": 0.86025, "auc": 0.9198489116476738}, "Logistic Regression": {"accuracy": 0.85925, "auc": 0.9100377483370305}}
